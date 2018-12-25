@@ -35,3 +35,4 @@ and some more.
 If you feel any problem(regarding this, ok), please let me know.
 
 And yes, since i used some unicode characters like '√' (root), 'π' etc in my code so it might be possible that source code may not execute properly.if you treat the files properly, like opening .java file in an editor which supports unicode format, will help.
+For this reason, i uploaded .class files also. RUN test.class FOR DEMO
