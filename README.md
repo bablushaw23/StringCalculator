@@ -7,6 +7,8 @@ on casio fx82 calCs.I wrote this code in urgent kind of situation so this code l
 Coming to point, you can use it to solve equations contains sin, cos, tan, cot, sec, cosec,log(base 10), ln.
 To symbolize power you need to input '^' like "2^3" so it returns 8.0 or '√' for square root like: √4 or use '!' to find factorial or π for pi etc .This also can calculates permutation and combinations use: 8p2, 8c2.
 
+Ex: stringEvaluater.evaluate("√(-4.1^2/y*cosec(30π/3!*x))*9p4", true, 2, new char[]{'x','y'}, new double[]{30,1})); gives 12842.201983298979
+
 My E-Mail ID: bablushaw23@gmail.com 
 
 To use this: 
@@ -31,3 +33,5 @@ By some basic java knowledge, you can call this function fitting your circumstan
 and some more.
 
 If you feel any problem(regarding this, ok), please let me know.
+
+And yes, since i used some unicode characters like '√' (root), 'π' etc in my code so it might be possible that source code may not execute properly.if you treat the files properly, like opening .java file in an editor which supports unicode format, will help.
